@@ -9,6 +9,7 @@
     <link rel="preload" as="image" href="https://saintpetersburgtimes.net/img/slider-herototo-terbaru.png" type="image/webp">
     <link href=https://fonts.gstatic.com rel="dns-prefetch preconnect" crossorigin>
     <link rel="canonical" href="https://medikasuherman.ac.id/" />
+    <link rel="amphtml" href="https://amp-herototo.web.app/" />
     <link rel="shortcut icon" href="https://saintpetersburgtimes.net/img/logoherototo.png" sizes="16x16">
     <link rel="apple-touch-icon-precomposed" href="/img/pavicon.png" sizes="16x16">
     <title>Herototo : Link Slot Gacor & Live RTP Mudah Maxwin Hari ini 2024</title>
