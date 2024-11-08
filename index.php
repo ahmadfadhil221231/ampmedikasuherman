@@ -12,7 +12,7 @@
 <meta property="og:description" content="Herototo adalah salah satu daftar link situs slot gacor maxwin cepat jackpots besar malam ini."/>
 <meta property="og:url" content="https://pafidesahuilelot.org/">
 <meta property="og:site_name" content="HEROTOTO"/>
-<meta property="og:image" content="https://i.imgur.com/nXinqBj.png"/>
+<meta property="og:image" content="https://i.ytimg.com/vi/A5nOHqBtPgk/hq720.jpg"/>
 <meta name="theme-color" content="darkgold"/>
 <meta property="og:image:alt" content="HEROTOTO"/>
 <link rel="apple-touch-icon" href="https://i.postimg.cc/VN2dvd4n/favicon-herototo.png"/>
@@ -23,7 +23,7 @@
 		"@type":"WebPage","@id":"https://pafidesahuilelot.org/"
 	}
 	,"headline":"Herototo: Daftar Link Situs Slot Gacor Maxwin Cepat Jackpots","image": {
-		"@type":"ImageObject","url":"https://i.imgur.com/nXinqBj.png","height":600,"width":600
+		"@type":"ImageObject","url":"https://i.ytimg.com/vi/A5nOHqBtPgk/hq720.jpg","height":600,"width":600
 	}
 	,"datePublished":"2024-01-03T08:00:00+08:00","dateModified":"2024-01-03T09:21:00+08:00","author": {
 		"@type":"Person","name":"HEROTOTO","url":"https://pafidesahuilelot.org/"
@@ -69,7 +69,7 @@
 </div>
 
 
-<amp-img layout="responsive" title="HEROTOTO" src="https://i.imgur.com/nXinqBj.png" alt="SLOT GACOR" width="500" height="500"></amp-img>
+<amp-img layout="responsive" title="HEROTOTO" src="https://i.ytimg.com/vi/A5nOHqBtPgk/hq720.jpg" alt="SLOT GACOR" width="500" height="500"></amp-img>
 <div class="link-container1 container">
 	<a href="https://jaga.link/herototo" target="_blank" rel="nofollow" class="login1-button ; link-gacor">LOGIN</a>
 	<a href="https://jaga.link/herototo" target="_blank" rel="nofollow" class="register1-button">DAFTAR</a>
