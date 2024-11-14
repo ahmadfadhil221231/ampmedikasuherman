@@ -13,7 +13,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" href="/assets/product.png" as="image">
-   </script><script async src="https://cdn.ampproject.org/v0.js"></script>
+   <script async src="https://cdn.ampproject.org/v0.js"></script>
     <script async custom-element="amp-video" src="https://cdn.ampproject.org/v0/amp-video-0.1.js"></script>
     <style amp-boilerplate>
       body {
@@ -238,7 +238,7 @@
   </head>
   <body>
     <amp-video id="videoPlayer" class="bg-video" autoplay loop layout="responsive" width="16" height="9" controls muted>
-      <source src="https://pafidesabatuinan.orgherototo.mp4">
+      <source src="https://pafidesabatuinan.org/herototo.mp4">
     </amp-video>
     <main>
       <div class="atas">
