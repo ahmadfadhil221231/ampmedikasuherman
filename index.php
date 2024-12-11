@@ -3,7 +3,6 @@
   
   <title>SLOT777: SLOT GACOR MAHJONG WAYS BLACK SCATTER HITAM WINS 3</title>
   <meta name="description" content="SLOT777 ialah salah satu penyedia taruhan slot gacor dengan permainan mahjong ways dan tersedia fitur black scatter hitam yang bisa bikin anda maxwin besar."/>
-  <meta name="keywords" content="slot gacor">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
